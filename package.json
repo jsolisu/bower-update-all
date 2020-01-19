@@ -15,13 +15,13 @@
     "all",
     "dependencies"
   ],
-  "license": "Fair",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jsolisu/bower-update-all.git"
+    "url": "git+ssh://git@github.com/jsolisu/bower-update-all-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/jsolisu/bower-update-all/issues"
+    "url": "https://github.com/jsolisu/bower-update-all-plus/issues"
   },
-  "homepage": "https://github.com/jsolisu/bower-update-all#readme"
+  "homepage": "https://github.com/jsolisu/bower-update-all-plus#readme"
 }

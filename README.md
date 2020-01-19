@@ -1,7 +1,7 @@
 # bower-update-all-plus
 ## Make ALL the updates!
 
-Based on [bower-update-all](https://github.com/GoodMorningPlanet/bower-update-all).
+Based on [bower-update-all](https://github.com/GoodMorningPlanet/bower-update-all) **Deleted**.
 
 ## Prerequisites
 
