@@ -1,0 +1,27 @@
+{
+  "name": "bower-update-all-plus",
+  "version": "0.0.8",
+  "description": "Update all of your Bower dependencies in one single command",
+  "main": "index.js",
+  "directories": {
+    "bin": "./bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bower",
+    "update",
+    "all",
+    "dependencies"
+  ],
+  "license": "Fair",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsolisu/bower-update-all.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsolisu/bower-update-all/issues"
+  },
+  "homepage": "https://github.com/jsolisu/bower-update-all#readme"
+}
